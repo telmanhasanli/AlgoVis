@@ -2,10 +2,10 @@
 
 AlgoVis is a Python-based visualization tool that demonstrates the functionality of sorting algorithms. 
 
-# Features
+## Features
 It visualizes sorting algorithms like Bubble Sort and Insertion Sort with support for ascending/descending orders and interactive controls for starting, pausing, and resetting.
 
-# giHow to Run
+## How to Run
 Clone the repository:
 bash
 Copy code
